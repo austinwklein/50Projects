@@ -12,6 +12,7 @@ body{
     justify-content: center;
     height: 100vh;
     overflow: hidden;
+    background-color: #232628;
 }
 
 .container{
@@ -49,6 +50,7 @@ body{
 
 .panel.active h3{
     opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
 }
 
 @media(max-width: 480px) {
