@@ -72,6 +72,7 @@ body{
     padding: 15px 0;
     font-size: 18px;
     color: white;
+    caret-color: lightblue;
 }
 
 .form-control input:focus, form-control input:valid {
