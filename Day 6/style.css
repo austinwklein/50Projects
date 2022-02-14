@@ -12,6 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    overflow-x: hidden;
 }
 
 h1 {
@@ -23,7 +24,7 @@ h1 {
     color: white;
     display: flex;
     align-items: center;
-    justify-items: center;
+    justify-content: center;
     width: 400px;
     height: 200px;
     margin: 10px;
